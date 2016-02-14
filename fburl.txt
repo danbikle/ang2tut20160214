@@ -1,0 +1,7 @@
+
+This file contains data I want to remember.
+
+https://amber-torch-7724.firebaseio.com/
+
+curl -X PUT -d '[{"id":1,"name":"Dan Bikle"},{"id":2,"name":"Danster Bikle"}]'  https://amber-torch-7724.firebaseio.com/heroes.json
+
