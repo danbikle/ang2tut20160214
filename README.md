@@ -84,7 +84,7 @@ npm start
 The console indicated that lite-server was serving at two URLs.
 
 I saw this:
-
+```bash
 ann@nia111:~/ang2tut20160214 $ 
 ann@nia111:~/ang2tut20160214 $ npm start
 
@@ -150,7 +150,7 @@ ann@nia111:~/ang2tut20160214 $ npm start
 [1] 16.02.14 07:29:04 200 GET /node_modules/firebase-angular2/src/firebase.service.factory.js (Unknown - 52ms)
 [1] 16.02.14 07:29:04 200 GET /node_modules/firebase-angular2/src/firebase.provider.js (Unknown - 18ms)
 [1] 16.02.14 07:29:04 200 GET /app/hero-detail.component.js (Unknown - 19ms)
-
+```
 
 Also it brought up a browser and loaded the Tour of Heroes demo.
 
