@@ -60,8 +60,9 @@ sudo apt-get upgrade
 ```
 
 After that I login as ann and I download Node.js.
-
+```bash
 wget https://nodejs.org/dist/v5.6.0/node-v5.6.0-linux-x64.tar.gz
+```
 
 Then I install it:
 ```bash
